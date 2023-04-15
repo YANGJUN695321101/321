@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>拼多多商品下载器</title>
+    <style>
+        body {
+            width: 300px;
+            font-family: Arial, sans-serif;
+            padding: 16px;
+        }
+
+        button {
+            width: 100%;
+            padding: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>拼多多商品下载器</h1>
+    <button id="download-button">开始下载</button>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDD Scraper Popup</title>
+    <style>
+        body {
+            width: 300px;
+            height: 200px;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>PDD Scraper</h1>
+    <button id="scrapeBtn">开始下载</button>
+    <script src="popup.js"></script>
+</body>
+</html>
+
+
+    <script src="popup.js"></script>
+</body>
+</html>
+<label for="download-folder">下载目录：</label>
+<input type="text" id="download-folder" placeholder="例如：pinduoduo-goods" />
+
